@@ -39,7 +39,7 @@ Decision
 
 * The ADR format will follow the format described in `Consequences`_ section.
 
-* We will follow the convention of storing those ADRs as Markdown formatted
+* We will follow the convention of storing those ADRs as rST formatted
   documents stored under the `docs/adr` directory, as exemplified in Nat Pryce's
   `adr-tools <https://github.com/npryce/adr-tools>`_. This does not imply that we will
   be using `adr-tools` itself, as we might diverge from the proposed structure.
