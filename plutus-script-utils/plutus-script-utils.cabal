@@ -71,10 +71,12 @@ library
     , bytestring
     , cardano-api            >=1.34
     , cardano-ledger-alonzo
+    , mtl
     , plutus-core
     , plutus-ledger-api
     , plutus-tx
     , plutus-tx-plugin
+    , prettyprinter
     , serialise
 
   ghc-options:      -fprint-potential-instances
